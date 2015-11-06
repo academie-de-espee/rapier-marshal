@@ -3,6 +3,8 @@ title: Official Practices
 layout: default
 ---
 
+Have updates? [Submit a change](https://github.com/academie-de-espee/rapier-marshal/blob/master/_data/practices.csv) or [Let us known](https://github.com/academie-de-espee/rapier-marshal/issues/new).
+
 <table>
 <tr>
     <th> Group </th>
