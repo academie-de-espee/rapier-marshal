@@ -10,15 +10,15 @@ Have updates? [Submit a change](https://github.com/academie-de-espee/rapier-mars
     <th> Group </th>
     <th> Marshal in Charge </th>
     <th> Days </th>
-    <th> Start Time </th>
-    <th> End Time </th>
+    <th> Time
+    <th> Address </th>
 </tr>
 {% for p in site.data.practices %}
 <tr>
     <td> {{ p.group }} </td>
     <td> <a href='mailto:{{p.email}}'>{{ p.mic }}</a> </td>
     <td> {{ p.days }} </td>
-    <td> {{ p.start }} </td>
-    <td> {{ p.end }} </td>
+    <td> {{ p.start }} - {{ p.end }} </td>
+    <td> {{ p.address }} </td>
 {% endfor %}
 </table>
