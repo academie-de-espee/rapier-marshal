@@ -1,0 +1,70 @@
+---
+# -*- html -*- mode
+nav:
+  - text: Index
+    href: /
+  - text: Rules
+    href: /rules
+  - text: Practices
+    href: /practices
+  - text: Marshals
+    href: /marshals
+  - text: Links
+    href: /links
+---
+<? include('php/krm-news.php') ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+    <title>Atlantia Rapier Marshal : {{ page.title }} </title>
+    <meta name="keywords" content="rapier atlantia sca" />
+    <meta name="description" content="Kingdom of Atlantia : Rapier Marshal" />
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' /> 
+    <link rel="stylesheet" type="text/css" href="/css/default.css" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+</head>
+<body>
+
+<div id="outer">
+	<div id="inner">
+
+		<div id="header">
+            		<img src="/images/atlantia-small.gif" height=90 border=0>
+			<h1>Kingdom of Atlantia</h1>
+            <h2>Rapier Marshal </h2>
+		</div>
+
+		<div id="splash"></div>
+
+		<div id="menu">
+			<ul>
+                {% for t in page.nav %}
+                <li> <a href="{{ t.href }}">{{ t.text }}</a> </li>
+                {% endfor %}
+            </ul>
+		</div>
+
+        <div id="primarycontent">
+            <div class="header"> <h3> {{ page.title }} </h3> </div>
+            <div class="content"> {{ content }} </div>
+        </div>
+
+		<div id="secondarycontent">
+			<h3>About Us</h3>
+			<div class="content">
+
+            {% for p in site.data.staff %}
+            <p><b>{{ p.title }}</b> <br /> <a href='mailto:{{ p.email }}'>{{ p.name }}</a></p>
+            {% endfor %}
+		</div>
+		</div>
+
+		<div id="footer">
+		Copyright &copy; 2002-2010 Kingdom of Atlantia, SCA, Inc.
+		<a href='/disclaimer'> Contact, disclaimer and copyright information</a>
+		</div>
+
+	</div>
+</div>
+</body>
+</html>
