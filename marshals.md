@@ -12,6 +12,7 @@ All rapier fighting in Atlantia must be monitored by a [Warranted Marshal](http:
 * [Rapier Marhals-in-Training](http://marshal.atlantia.sca.org/Roster/RapierMITbyLast.html)
 * [Suspended Marshals](http://marshal.atlantia.sca.org/Roster/RapierSuspendeesByLast.html)
 * [Update your warrant information](http://marshal.atlantia.sca.org/update.php)
+* [Rapier Marshal 101 Class Notes](/documents/rapier-marshal-101-06-2015.docx)
 
 ### Procedures
 * [Becoming a Rapier Marshal](/procedures/mit)
