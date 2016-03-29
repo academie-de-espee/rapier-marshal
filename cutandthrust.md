@@ -12,7 +12,7 @@ You should fully review both the [Society](http://www.sca.org/officers/marshal/c
 I am already familiar with the Atlantian Rapier rules, which ones
 changed?
 
-While reviewing the ruleset as a whole is recommended, please make sure you review sections 3.11.2, 3.11.2.2, 3.11.3.1.5 and 3.11.3.2.3.
+While reviewing the ruleset as a whole is recommended, please make sure you review sections 3.11.2, 3.11.3.1.2, 3.11.3.2.1, and 3.11.3.2.3
 
 ### Implementation Details
 
