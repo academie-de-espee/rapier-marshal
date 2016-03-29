@@ -7,7 +7,7 @@ layout: default
 
 What documents do I need to review prior to starting C&T training?
 
-You should fully review both the [Society](http://www.sca.org/officers/marshal/combat/rapier/) and [Kingdom](http://law.atlantia.sca.org/Policy.html#3.11) rapier rules.
+You should fully review both the [Society](http://www.sca.org/officers/marshal/combat/rapier/) and [Kingdom](http://atlantia.sca.org/134-offices/seneschal/policies-and-laws/atlantian-book-of-policy/marshal-pages/116-3-11-section-xi-rapier-combat) rapier rules.
 
 I am already familiar with the Atlantian Rapier rules, which ones
 changed?
