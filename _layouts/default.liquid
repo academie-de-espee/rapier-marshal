@@ -1,17 +1,3 @@
----
-# -*- html -*- mode
-nav:
-  - text: Index
-    href: /
-  - text: Rules
-    href: /rules
-  - text: Practices
-    href: /practices
-  - text: Marshals
-    href: /marshals
-  - text: Links
-    href: /links
----
 <? include('php/krm-news.php') ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
@@ -38,7 +24,7 @@ nav:
 
 		<div id="menu">
 			<ul>
-                {% for t in page.nav %}
+                {% for t in site.nav %}
                 <li> <a href="{{ t.href }}">{{ t.text }}</a> </li>
                 {% endfor %}
             </ul>
