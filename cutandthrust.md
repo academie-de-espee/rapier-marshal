@@ -42,6 +42,7 @@ challenging and thorough authorization.
 
 #### I want to become a C&T marshal, what is required?
 All C&T authorized combatants that hold an active rapier marshal warrant in Atlantia are C&T marshals.
+
 #### When can we practice C&T?
 
 You can only practice when a C&T marshal is present to oversee the
