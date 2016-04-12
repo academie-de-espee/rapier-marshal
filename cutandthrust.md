@@ -16,7 +16,7 @@ While reviewing the ruleset as a whole is recommended, please make sure you revi
 
 ### Implementation Details
 
-I want to become authorized, what is required?
+#### I want to become authorized, what is required?
 
 In order to attempt to authorize, the candidate must have been
 authorized in either Rapier or Armored combat for at least one year.
@@ -28,37 +28,37 @@ SCA combat. Training, practices, and pick-up bouting with the cut and
 thrust form, while recommended prior to taking an authorization test, is
 not sufficient to meet this requirement.
 
-What is the authorization process?
+#### What is the authorization process?
 
 The authorization process is similar to that of traditional rapier.
 There will be both a rules quiz and a series of authorization passes.
 
-What is the authorization process checking for?
+#### What is the authorization process checking for?
 
 In addition to the standard safety checks of a traditional rapier
 authorization, the C&T authorization ensures that candidates can
 consistently throw full-speed C&T blows safely. Please expect a
 challenging and thorough authorization.
 
-I want to become a C&T marshal, what is required?
+#### I want to become a C&T marshal, what is required?
 
 In order to qualify for the C&T MIT program, you must have been a
 traditional rapier marshal for at least one year, and be an authorized
 C&T fighter. You must complete a C&T 101 class, and serve as a C&T MIT
 for at least 3 events.
 
-When can we practice C&T?
+#### When can we practice C&T?
 
 You can only practice when a C&T marshal is present to oversee the
 practice. No C&T is permitted to occur at any SCA event or practice
 without a C&T marshal present and actively observing the combat.
 
-When can we fight C&T at events?
+#### When can we fight C&T at events?
 
 C&T may occur at any event with authorized C&T fighters and a C&T
 marshal subject to the permission of the marshals in charge.
 
-What are the reporting requirements for C&T?
+#### What are the reporting requirements for C&T?
 
 RMICs are required to specify in the event report when C&T occurs at the
 event. The name of the presiding C&T marshal must be provided in the
@@ -66,8 +66,7 @@ report, along with a brief description of the activities.
 
 ### Important Differences
 
-What are some of the important differences between armored fighting and
-C&T?
+#### What are some of the important differences between armored fighting and C&T?
 
 The most important difference is the lack of power generation. A number
 of concepts and techniques will translate from armored to C&T, but those
@@ -80,8 +79,7 @@ remain very similar to rapier. It is important that the armored fighter
 become familiar with both the rules and the expected calibration level
 during their training.
 
-What are some of the important differences between rapier fighting and
-C&T?
+#### What are some of the important differences between rapier fighting and C&T?
 
 The most obvious difference is the expected level of impact in C&T is
 broader than that of traditional rapier. While the thrusts and draw cuts
@@ -99,7 +97,7 @@ take the time to learn to call blows in the additional armor.
 
 ### C&T Training
 
-What are some of the problems that occur during training?
+#### What are some of the problems that occur during training?
 
 There are a few areas that seem to be a common experience among C&T
 fighters as they train. One, which seems to affect rapier fighters in
@@ -121,7 +119,7 @@ opponent (for armored fighters).
 Please let [DEM-Rapier](mailto:rapier%20AT%20atlantia.sca.org) know if
 you see anything you think should be modified.
 
-How should I start?
+#### How should I start?
 
 Obviously, you have to find a C&T marshal to practice with, but marshals
 have put forth a number of additional recommendations as you start. An
@@ -132,13 +130,13 @@ and techniques that are specific to C&T.
 
 ### Reporting and Additional Questions
 
-What are the reporting requirements for C&T?
+#### What are the reporting requirements for C&T?
 
 For events, the RMIC must report any time C&T occurs at the event.
 Please include the name of the C&T marshal that oversaw the fighting and
 a brief overview of the activities that include C&T.
 
-Where can I go for additional information?
+#### Where can I go for additional information?
 
 If the rules dont answer your questions, there are a number of places
 you can go. Any C&T marshal can field your question, you can ask on any
