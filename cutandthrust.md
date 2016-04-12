@@ -41,12 +41,7 @@ consistently throw full-speed C&T blows safely. Please expect a
 challenging and thorough authorization.
 
 #### I want to become a C&T marshal, what is required?
-
-In order to qualify for the C&T MIT program, you must have been a
-traditional rapier marshal for at least one year, and be an authorized
-C&T fighter. You must complete a C&T 101 class, and serve as a C&T MIT
-for at least 3 events.
-
+All C&T authorized combatants that hold an active rapier marshal warrant in Atlantia are C&T marshals.
 #### When can we practice C&T?
 
 You can only practice when a C&T marshal is present to oversee the
