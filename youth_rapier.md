@@ -11,7 +11,7 @@ Rapier Marshal, but instead the Kingdom Youth Rapier Marshal.
 So if you're:
 
 -   **18 or older** you must fight in the adult rapier program.
--   **12 to 15** you must fight in the [youth rapier program](http://yc.atlantia.sca.org). Please go to [http://yc.atlantia.sca.org/](http://yc.atlantia.sca.org), as well as refering to [section 3.8.5 of Kingdom policy](http://law.atlantia.sca.org/Policy.html#3.8).
+-   **12 to 15** you must fight in the [youth rapier program](http://yc.atlantia.sca.org). Please go to [http://yc.atlantia.sca.org/](http://yc.atlantia.sca.org), as well as refering to [section 3.8.5 of Kingdom policy](http://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/marshal?faqitem=Herald7).
 -   **16 or 17** you have a choice of which program to fight in, but you can fight in only one.
     -   If you choose to fight in the adult program there are additional requirements described in section 3.4.6 of Kingdom Policy.
     -   Please check with your group Minister of the Lists (MoL) for assitance in completing the waiver paperwork.
