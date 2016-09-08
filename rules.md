@@ -11,7 +11,6 @@ Combat Archery rules are defined in [Section 3.5.3](http://atlantia.sca.org/134-
 
 #### Society Rules
 In addition to our Kingdom rules, you must also know and follow our [Society Rules](http://sca.org/officers/marshal/docs/rapier/rapier_handbook.pdf).
-The Society Rapier Marshal provides a list of legal blades in the [Society Blade Handbook](http://www.sca.org/officers/marshal/docs/rapier/bladetypes.pdf).
 
 #### Cut & Thrust
 
