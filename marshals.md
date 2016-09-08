@@ -19,10 +19,8 @@ All rapier fighting in Atlantia must be monitored by a [Warranted Marshal](http:
 
 ### Forms
 
-All groups holding practices must submit waiver forms based on the [Kingdom Waiver Policies](http://seneschal.atlantia.sca.org/Downloads/WaiverFAQMarshal.pdf).
-When submitting waivers, use the [Waiver Report](http://seneschal.atlantia.sca.org/Downloads/WaiverPractice.pdf) form.
+All groups holding practices must submit waiver forms based on the [Kingdom Waiver Policies](http://atlantia.sca.org/offices/seneschal/atlantia-waiver-secretary).
+When submitting waivers, use the Waiver Reports available from the [Kindom Waiver Secretary](http://atlantia.sca.org/offices/seneschal/atlantia-waiver-secretary).
 
-* [Practice Waiver](http://sca.org/docs/pdf/rosterwaiver.pdf)
-* [Child Waiver](http://sca.org/docs/pdf/chldwaiv.pdf)
-* [Medical Authorization for Minors](http://sca.org/docs/pdf/treatminor-notary.pdf)
+* [Practice Waiver](http://www.sca.org/docs/pdf/rosterwaiver.pdf)
 * [Event Report](http://marshal.atlantia.sca.org/report.php)
