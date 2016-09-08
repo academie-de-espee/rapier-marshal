@@ -6,7 +6,7 @@ layout: default
 This is the recognized website for the Deputy Earl Marshal for Rapier
 Combat Office within the [Kingdom of Atlantia](http://atlantia.sca.org)
 of the [Society for Creative Anachronism, Inc](http://www.sca.org), and
-is maintained by [Brian de Morray (Brian
+is maintained by [Master Brian de Morray (Brian
 Caswell)](mailto:bmc%20AT%20shmoo.com). This site may contain electronic
 versions of the branch's governing documents. Any discrepancies between
 the electronic version of any information on this site and the printed
