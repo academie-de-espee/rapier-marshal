@@ -12,5 +12,5 @@ At this site, you may read and print the Atlantian Rapier [Rules of the List](/r
 
 ### Quick Links
 
-* [Event Report](http://marshal.atlantia.sca.org/report.php) - Use this form to report on any marshal activity. Marshals In Charge (MIC) of an official event are required to submit event reports. However, anyone can submit a report on any marshal activity.
-* [Marshal Roster Information Update Form](http://marshal.atlantia.sca.org/update.php) - Use this form to update your contact information and SCA membership information and currently warranted disciplines.
+* [Event Report](https://warrant.atlantia.sca.org/reports/new/1) - Use this form to report on any marshal activity. Marshals In Charge (MIC) of an official event are required to submit event reports. However, anyone can submit a report on any marshal activity.
+* [Marshal Roster Information Update Form](https://warrant.atlantia.sca.org/warrants/request/1) - Use this form to update your contact information and SCA membership information and currently warranted disciplines.
