@@ -1,6 +1,6 @@
 * {
-	padding: 0px;
-	margin: 0px;
+    padding: 0px;
+    margin: 0px;
 }
 
 body {
@@ -31,26 +31,26 @@ ul.linklist li.last     { text-align: right; border-top: solid 1px #CCC; padding
 
 
 #outer {
-	position: relative;
-	width: 760px;
-	margin: auto;
-	background: #fff;
+    position: relative;
+    width: 760px;
+    margin: auto;
+    background: #fff;
 }
 
 #inner {
-	position: relative;
-	padding: 10px 10px 10px 10px;
-	z-index: 2;
+    position: relative;
+    padding: 10px 10px 10px 10px;
+    z-index: 2;
 }
 
 #header {
-	position: absolute;
-	background: blue url('/images/gradient.png') repeat-x;
-	width: 300px;
-	height: 92px;
-	color: #fff;
-	padding-left: 20px;
-	border:solid 1px #000; 
+    position: absolute;
+    background: blue url('/images/gradient.png') repeat-x;
+    width: 300px;
+    height: 92px;
+    color: #fff;
+    padding-left: 20px;
+    border:solid 1px #000;
 }
 
 #header span {
@@ -58,39 +58,39 @@ ul.linklist li.last     { text-align: right; border-top: solid 1px #CCC; padding
 }
 
 #header h1 {
-	position: absolute;
-	font-size: 23px;
-	letter-spacing: -1px;
-	top: 20px;
+    position: absolute;
+    font-size: 23px;
+    letter-spacing: -1px;
+    top: 20px;
     left: 110px;
-	height: 92px;
+    height: 92px;
 }
 
 #header h2 {
-	position: absolute;
-	font-size: 10px;
-	font-weight: normal;
-	color: #FCE2CA;
+    position: absolute;
+    font-size: 10px;
+    font-weight: normal;
+    color: #FCE2CA;
     left: 110px;
-	top: 51px;
+    top: 51px;
 }
 
 #splash {
     position: absolute;
     right: 10px;
     background: #EAEAE2 url('/images/banner4.gif') no-repeat;
-    border:solid 1px #000; 
+    border:solid 1px #000;
     width: 408px;
     height: 92px;
 }
 
 #menu {
-	position: relative;
-	background: #B8AF8d;
-	height: 55px;
-	padding: 0px 0px 0px 0px;
-	margin: 98px 0px 0px 0px;
-	border:solid 1px #000; 
+    position: relative;
+    background: #B8AF8d;
+    height: 55px;
+    padding: 0px 0px 0px 0px;
+    margin: 98px 0px 0px 0px;
+    border:solid 1px #000;
 }
 
 #menu ul {
@@ -98,9 +98,9 @@ ul.linklist li.last     { text-align: right; border-top: solid 1px #CCC; padding
 
 #menu ul li
 {
-	display: inline;
-	line-height: 52px;
-	padding-left: 3px;
+    display: inline;
+    line-height: 52px;
+    padding-left: 3px;
 }
 
 #menu ul li.first {
@@ -108,45 +108,45 @@ ul.linklist li.last     { text-align: right; border-top: solid 1px #CCC; padding
 }
 
 #menu ul li a {
-	background-color: transparent;
-	background-repeat: repeat-x;
-	padding: 8px 12px 8px 12px;
-	font-size: 12px;
-	color: #fff;
-	font-weight: bold;
+    background-color: transparent;
+    background-repeat: repeat-x;
+    padding: 8px 12px 8px 12px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
 }
 
 #date {
-	position: absolute;
-	top: 0px;
-	line-height: 52px;
-	color: #FFF;
-	right: 30px;
-	font-weight: bold;
-	font-size: 12px;
-	letter-spacing: -1px;
+    position: absolute;
+    top: 0px;
+    line-height: 52px;
+    color: #FFF;
+    right: 30px;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: -1px;
 }
 
 
 h3 {
-	position: relative;
-	top: 4px;
-	color: #656552;
-	line-height: 25px;
-	letter-spacing: -1px;
+    position: relative;
+    top: 4px;
+    color: #656552;
+    line-height: 25px;
+    letter-spacing: -1px;
     margin-bottom: 20px;
 }
 
 #secondarycontent {
-	position: relative;
-	width: 180px;
-	float: right;
+    position: relative;
+    width: 180px;
+    float: right;
 }
 
 #secondarycontent h3 {
-	font-size: 16px;
-	padding: 0px 0px 0px 10px;
-	margin-bottom: 20px;
+    font-size: 16px;
+    padding: 0px 0px 0px 10px;
+    margin-bottom: 20px;
 }
 
 #secondarycontent .content {
@@ -160,14 +160,14 @@ h3 {
 }
 
 #primarycontent h3 {
-	font-size: 18px;
-	line-height: 25px;
-	padding: 0px 0px 0px 15px;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 0px 0px 0px 15px;
 }
 
 #primarycontent .content {
-	padding: 0px 0px 0px 15px;
-	margin-bottom: 20px;
+    padding: 0px 0px 0px 15px;
+    margin-bottom: 20px;
 }
 
 #primarycontent .post {
@@ -179,12 +179,12 @@ h3 {
 }
 
 #primarycontent .post .date {
-	position: absolute;
-	right: 15px;
-	top: 0px;
-	line-height: 35px;
-	color: #AFAFA4;
-	font-weight: bold;
+    position: absolute;
+    right: 15px;
+    top: 0px;
+    line-height: 35px;
+    color: #AFAFA4;
+    font-weight: bold;
 }
 
 #primarycontent .post .content {
@@ -192,13 +192,13 @@ h3 {
 }
 
 #footer {
-	position: relative;
-	clear: both;
-	height: 26px;
-	text-align: center;
-	color: #A8A88D;
-	border:solid 1px #CCC; 
-	padding:5px; 
+    position: relative;
+    clear: both;
+    height: 26px;
+    text-align: center;
+    color: #A8A88D;
+    border:solid 1px #CCC;
+    padding:5px;
     top: 10px;
     bottom: 10px;
 }
@@ -208,17 +208,22 @@ h3 {
 }
 
 #content ul {
-	margin-left: 2em;
+    margin-left: 2em;
 }
 
 #content ol {
-	margin-left: 2em;
+    margin-left: 2em;
 }
 
 #inlist p { margin-left: 4em; }
 
 a[href ^="http:"] {
-   padding-right: 20px;
-      background: transparent url(/images/external.gif) no-repeat center right;
+    padding-right: 20px;
+    background: transparent url(/images/external.gif) no-repeat center right;
+}
+
+a[href ^="https:"] {
+    padding-right: 20px;
+    background: transparent url(/images/external.gif) no-repeat center right;
 }
 
