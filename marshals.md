@@ -6,9 +6,9 @@ layout: default
 Below is content specific to being a marshal for rapier content within Atlantia, including procedures and forms required.
 
 ### Warrants
-All rapier fighting in Atlantia must be monitored by a [Warranted Marshal](https://marshal.atlantia.sca.org/warrants/warrants/type/14).
+All rapier fighting in Atlantia must be monitored by a [Warranted Marshal](https://warrant.atlantia.sca.org/warrants/type/14).
 
-* [Update your warrant information](https://marshal.atlantia.sca.org/warrants/warrants/new)
+* [Update your warrant information](https://warrant.atlantia.sca.org/warrants/request/1)
 * [Rapier Marshal 101 Class Notes](/documents/rapier-marshal-101-06-2015.docx)
 
 ### Procedures
@@ -20,4 +20,4 @@ All groups holding practices must submit waiver forms based on the [Kingdom Waiv
 When submitting waivers, use the Waiver Reports available from the [Kindom Waiver Secretary](http://atlantia.sca.org/offices/seneschal/atlantia-waiver-secretary).
 
 * [Practice Waiver](http://www.sca.org/docs/pdf/rosterwaiver.pdf)
-* [Event Report](https://marshal.atlantia.sca.org/warrants/reports/new)
+* [Event Report](https://warrant.atlantia.sca.org/reports/new/1)
