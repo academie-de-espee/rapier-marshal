@@ -6,7 +6,7 @@ layout: default
 Rapier fighting in Atlantia is governed by the Atlantian [Book of Policy](http://atlantia.sca.org/offices/seneschal/clerk-of-law/policy/seneschal).
 Rules relevant to rapier combat are in [Section 3.11](http://atlantia.sca.org/134-offices/seneschal/policies-and-laws/atlantian-book-of-policy/marshal-pages/116-3-11-section-xi-rapier-combat).
 
-In some melee combat scenerios, combat archery may be employed.
+In some melee combat scenarios, combat archery may be employed.
 Combat Archery rules are defined in [Section 3.5.3](http://atlantia.sca.org/134-offices/seneschal/policies-and-laws/atlantian-book-of-policy/marshal-pages/110-3-5-section-v-weapons-and-armor-standards).
 
 #### Society Rules

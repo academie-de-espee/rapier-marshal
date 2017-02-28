@@ -134,7 +134,7 @@ a brief overview of the activities that include C&T.
 
 #### Where can I go for additional information?
 
-If the rules dont answer your questions, there are a number of places
+If the rules don't answer your questions, there are a number of places
 you can go. Any C&T marshal can field your question, you can ask on any
 of the online lists (such as the Atlantian rapiernet or the Atlantian
 marshals list) or you can email ask either the Deputy Earl Marshal for

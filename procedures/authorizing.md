@@ -5,31 +5,15 @@ layout: default
 
 ### Introduction
 
-The SCA requires each person who wishes to participate in competitive
-combat to pass a safety test before participating in tournaments or
-melees. This test is called an authorization and is intended to verify
-that you understand the rules and that you have sufficient control to be
-safe on the field.
+The SCA requires each person who wishes to participate in competitive combat to pass a safety test before participating in tournaments or melees. This test is called an authorization and is intended to verify that you understand the rules and that you have sufficient control to be safe on the field.
 
-This FAQ document is focused on authorizing as an adult rapier combatant
-in the Kingdom of Atlantia, but most of the information will be
-applicable to any combat form in any Kingdom.
+This FAQ document is focused on authorizing as an adult rapier combatant in the Kingdom of Atlantia, but most of the information will be applicable to any combat form in any Kingdom.
 
 ### Practices
 
-You are not required to be authorized in order to participate in
-practices, however before participating you must sign a waiver. Before
-fighting (at either a practice or an event) you must also be inspected
-to make sure that your armor and weapons meet the safety regulations.
-Your local marshal (safety officer) and other experienced fencers will
-teach you the basics and give you feedback on when they feel you're
-ready to authorize.
+You are not required to be authorized in order to participate in practices, however before participating you must sign a waiver. Before fighting (at either a practice or an event) you must also be inspected to make sure that your armor and weapons meet the safety regulations.  Your local marshal (safety officer) and other experienced fencers will teach you the basics and give you feedback on when they feel you're ready to authorize.
 
-While your actual authorization will be administered by marshals who are
-not your regular practice partners, you are encouraged to ask your local
-marshals to perform a practice (or "mock") authorization with you. Doing
-so will teach you what to expect and allow you to be less stressed for
-the actual test.
+While your actual authorization will be administered by marshals who are not your regular practice partners, you are encouraged to ask your local marshals to perform a practice (or "mock") authorization with you. Doing so will teach you what to expect and allow you to be less stressed for the actual test.
 
 ### Before you authorize
 
@@ -109,11 +93,7 @@ over and discuss the authorization. They will then inform you of the
 results of your authorization and (particularly on a failure) they'll
 offer suggestions for improvement.
 
-If you passed, return to the MoL and complete your paperwork. You'll
-need to get the signatures of the two marshals on your new temporary
-card. A permanent authorization card will be mailed to you in a few
-weeks. If you want to participate in the day's tournament make sure
-you're signed up on that list.
+If you passed, return to the MoL and complete your paperwork. You'll need to get the signatures of the two marshals on your new temporary card. You will be able to print an authorization card from the [Atlantian authorization roster](https://authorizations.mol.atlantia.sca.org/).  If you want to participate in the day's tournament make sure you're signed up on that list.
 
 If you failed, please return to the MoL and inform them. While you may
 not participate in the day's tournament, you may check with the RMiC,
@@ -128,10 +108,6 @@ authorization team and any pick-up bouts and try again.
 
 ### The Academie 'd Espee
 
-All authorized fencers in Atlantia are invited to join the [Academie d'Espee](http://www.academiedespee.com/) with the rank of Scholar.
-Scholars are indicated by the blue scarves that they wear on their arms.
-Gold and white scarves indicate higher ranks (Free Scholar and Provost respectively) in the Academie.
+All authorized fencers in Atlantia are invited to join the [Academie d'Espee](http://www.academiedespee.com/) with the rank of Scholar.  Scholars are indicated by the blue scarves that they wear on their arms.  Gold and white scarves indicate higher ranks (Free Scholar and Provost respectively) in the Academie.
 
-The Academie is a very positive organization that adds a lot to the camaraderie of the rapier community.
-Participation in the Academie is optional.
-Ask your friends about it and/or read up on the group at the website linked above.
+The Academie is a very positive organization that adds a lot to the camaraderie of the rapier community.  Participation in the Academie is optional.  Ask your friends about it and/or read up on the group at the website linked above.
